@@ -10,7 +10,7 @@ ASAM was developed at the National Geospatial-Intelligence Agency (NGA) in colla
 
 Pull down the latest source:
 ```bash
-$ git clone git@github.com:ngageoint/anti-piracy-iOS-app.git
+$ git clone git@github.com:SmithSword/anti-piracy-iOS.git
 ```
 
 Launch Xcode:
